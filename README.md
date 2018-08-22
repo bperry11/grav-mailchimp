@@ -1,4 +1,4 @@
-# Mail Chimp Plugin
+# Mail Chimp Plugin (WORK IN PROGRESS)
 
 **This README.md file should be modified to describe the features, installation, configuration, and general usage of this plugin.**
 
