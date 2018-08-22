@@ -56,7 +56,7 @@ class MailChimpPlugin extends Plugin
          $params = $event['params'];
 
          switch ($action) {
-             case 'yourAction':
+             case 'mailchimp':
                  //do what you want
          }
      }

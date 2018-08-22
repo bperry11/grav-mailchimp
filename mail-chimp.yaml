@@ -1,2 +1,5 @@
 enabled: true
-text_var: Custom Text added by the **Mail Chimp** plugin (disable plugin to remove)
+api_key: '7284b7d6eebc3075d634b558dbcdc9be-us10'
+lists:
+    all: 'b1ec36c373'
+    elevate: 'de6766855e'
