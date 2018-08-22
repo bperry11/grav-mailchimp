@@ -1,5 +1,3 @@
 enabled: true
-api_key: '7284b7d6eebc3075d634b558dbcdc9be-us10'
+api_key: ''
 lists:
-    all: 'b1ec36c373'
-    elevate: 'de6766855e'
