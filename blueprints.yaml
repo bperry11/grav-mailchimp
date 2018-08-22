@@ -1,0 +1,31 @@
+name: Mail Chimp
+version: 0.1.0
+description: Process forms with MailChimp API
+icon: plug
+author:
+  name: Ben Perry
+  email: bkp07c@gmail.com
+homepage: https://github.com/bperry11/grav-plugin-mail-chimp
+demo: http://demo.yoursite.com
+keywords: grav, plugin, etc
+bugs: https://github.com/bperry11/grav-plugin-mail-chimp/issues
+docs: https://github.com/bperry11/grav-plugin-mail-chimp/blob/develop/README.md
+license: MIT
+
+form:
+  validation: strict
+  fields:
+    enabled:
+      type: toggle
+      label: Plugin status
+      highlight: 1
+      default: 0
+      options:
+        1: Enabled
+        0: Disabled
+      validate:
+        type: bool
+    text_var:
+      type: text
+      label: Text Variable
+      help: Text to add to the top of a page
